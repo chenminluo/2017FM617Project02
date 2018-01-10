@@ -72,9 +72,9 @@
 </br>而爬蟲最終效果與其他方式無太大差異
 </br>故使用用其他方式替代
 </br></br>爬蟲採用Google Chrome套件
-</br></br>  XPath Helper
+</br>XPath Helper
 </br> https://chrome.google.com/webstore/detail/xpath-helper/hgimnogjllphhhkhlmebbmlgjoejdpjl?hl=zh-TW
-</br> </br> SelectorGadget
+</br>SelectorGadget
 </br> https://chrome.google.com/webstore/detail/selectorgadget/mhjhnkcfbdhnjickkkdbjoemdmbfginb?hl=zh-TW
 
 * **1/10**
