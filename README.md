@@ -8,7 +8,7 @@
 * **分工**：待議
 ## 實作過程:
 * **12/24**
-></br> 觀看阿肥LINE BOT影片介紹
+</br> 觀看阿肥LINE BOT影片介紹
 </br> Youtube Demo Tutorial V1
 </br> Youtube Demo V2
 </br> 之後依照步驟，創建 LINE API
@@ -44,5 +44,5 @@
 </br> r = requests.get(url, headers=headers)  ]]
 
 * **1/9**
->看過老師錄的影片過後，花費約3至5小時修改，但還是無法顯現出理想中的型態,於是排除原始的爬蟲CODE，使用其他code做出架構。
+</br>看過老師錄的影片過後，花費約3至5小時修改，但還是無法顯現出理想中的型態,於是排除原始的爬蟲CODE，使用其他code做出架構。
 
