@@ -43,4 +43,6 @@
 </br></br> headers = {'User-Agent': '偽裝成的chrome'}
 </br> r = requests.get(url, headers=headers)  ]]
 
+* **1/9**
+>看過老師錄的影片過後，花費約3至5小時修改，但還是無法顯現出理想中的型態,於是放棄原始的爬蟲CODE，用其他方式替代
 
