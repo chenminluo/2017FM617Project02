@@ -25,7 +25,10 @@
 </br> http://www.oxxostudio.tw/articles/201701/line-bot.html
 </br></br> 試玩LINE-BOT API  (Flask + Requests)
 </br> https://becoder.org/python-flask-requests-line-bot-api/
-</br></br> 主要研究一體的流程，和每個不同人對於LINE-BOT的部屬還有敘述，在原理篇中，主要是研究對於基礎API的設置和了解在部屬上需要進行的步驟；聊天篇則是提到了，回復同樣詞句與指令回覆內容的項目。
+</br></br> 主要研究一體的流程
+</br>和每個對於LINE-BOT的部屬還有敘述
+</br>在原理篇中主要是研究對於基礎API的設置和了解在部屬上需要進行的步驟
+</br>聊天篇則是提到了回覆同樣詞句與指令回覆內容的項目。
 </br></br> Webduino - 用 LINE 開關燈 ( 智慧插座應用 )
 </br> https://www.youtube.com/watch?time_continue=89&v=cK3calqizTs
 </br> 另外也提到上方連結的額外應用
