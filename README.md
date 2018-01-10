@@ -8,11 +8,11 @@
 * **分工**：待議
 ## 實作過程:
 * **12/24**
-觀看阿肥LINE BOT影片介紹
-Youtube Demo Tutorial V1
-Youtube Demo V2
-之後依照步驟，創建 LINE API
-App name : 查理小幫手
+</br> 觀看阿肥LINE BOT影片介紹
+</br> Youtube Demo Tutorial V1
+</br> Youtube Demo V2
+</br> 之後依照步驟，創建 LINE API
+</br> App name : 查理小幫手
 
 * **1/3**
 LINE BOT 實戰 ( 聊天篇 )
