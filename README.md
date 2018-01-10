@@ -15,32 +15,32 @@
 </br> App name : 查理小幫手
 
 * **1/3**
-LINE BOT 實戰 ( 聊天篇 )
-http://www.oxxostudio.tw/articles/201701/line-bot-2.html
-LINE BOT 實戰 ( 原理篇 )
-http://www.oxxostudio.tw/articles/201701/line-bot.html
-試玩LINE-BOT API  (Flask + Requests)
-https://becoder.org/python-flask-requests-line-bot-api/
-主要研究一體的流程，和每個不同人對於LINE-BOT的部屬還有敘述，在原理篇中，主要是研究對於基礎API的設置和了解在部屬上需要進行的步驟；聊天篇則是提到了，回復同樣詞句與指令回覆內容的項目。
-Webduino - 用 LINE 開關燈 ( 智慧插座應用 )
-https://www.youtube.com/watch?time_continue=89&v=cK3calqizTs
-另外也提到上方連結的額外應用
+</br> LINE BOT 實戰 ( 聊天篇 )
+</br> http://www.oxxostudio.tw/articles/201701/line-bot-2.html
+</br> LINE BOT 實戰 ( 原理篇 )
+</br> http://www.oxxostudio.tw/articles/201701/line-bot.html
+</br> 試玩LINE-BOT API  (Flask + Requests)
+</br> https://becoder.org/python-flask-requests-line-bot-api/
+</br> 主要研究一體的流程，和每個不同人對於LINE-BOT的部屬還有敘述，在原理篇中，主要是研究對於基礎API的設置和了解在部屬上需要進行的步驟；聊天篇則是提到了，回復同樣詞句與指令回覆內容的項目。
+</br> Webduino - 用 LINE 開關燈 ( 智慧插座應用 )
+</br> https://www.youtube.com/watch?time_continue=89&v=cK3calqizTs
+</br> 另外也提到上方連結的額外應用
 
 * **1/5**
-研究阿肥LINE-BOT中GITHUB介紹與和CODE，將畫分理解阿肥的程式分層還有定義式結構，他將程室主要分為有定義的爬蟲、網址的回覆與按鈕選單的接續
-其中定義爬蟲選單主要有：
-def eyny_movie():　def apple_news():　def technews():　等
-定義網址回覆的涵式主要為URITemplateAction()
+</br> 研究阿肥LINE-BOT中GITHUB介紹與和CODE，將畫分理解阿肥的程式分層還有定義式結構，他將程室主要分為有定義的爬蟲、網址的回覆與按鈕選單的接續
+</br> 其中定義爬蟲選單主要有：
+</br> def eyny_movie():　def apple_news():　def technews():　等
+</br> 定義網址回覆的涵式主要為URITemplateAction()
 
 * **1/6**
-規畫與畫分自己數狀階層，和顯示模式
+</br> 規畫與畫分自己數狀階層，和顯示模式
 
 * **1/7**
-在程式完成後，嘗試架設上Heroku，其中失敗大約三次，而後部屬上其他作者簡單的回覆範例，在推的過程中推上heroku後 ，網址出現application error，之後請教老師，在老師說明原因之後改用ngrok測驗，但是在ngrok推成功之後，但在line上沒有出現任何東西，於是我們回頭開始研究其他方面，發現是我組PYTHON程式碼有問題(連結台新網址部分)
+</br> 在程式完成後，嘗試架設上Heroku，其中失敗大約三次，而後部屬上其他作者簡單的回覆範例，在推的過程中推上heroku後 ，網址出現application error，之後請教老師，在老師說明原因之後改用ngrok測驗，但是在ngrok推成功之後，但在line上沒有出現任何東西，於是我們回頭開始研究其他方面，發現是我組PYTHON程式碼有問題(連結台新網址部分)
 
 * **1/8**
-之後經過四次修改後才成功部屬，但是還是無法顯現出我們想要的結果，又在一次請教老師，發現是爬蟲上的問題，老師說明原因: 因為伺服器端會辨識 request 是不是從 browser 來的，所以需要讓爬蟲偽裝成 browser。
-headers = {'User-Agent': '偽裝成的chrome'}
-r = requests.get(url, headers=headers)  ]]
+</br> 之後經過四次修改後才成功部屬，但是還是無法顯現出我們想要的結果，又在一次請教老師，發現是爬蟲上的問題，老師說明原因: 因為伺服器端會辨識 request 是不是從 browser 來的，所以需要讓爬蟲偽裝成 browser。
+</br> headers = {'User-Agent': '偽裝成的chrome'}
+</br> r = requests.get(url, headers=headers)  ]]
 
 
