@@ -19,17 +19,17 @@
 </br> http://www.oxxostudio.tw/articles/201701/line-bot-2.html
 </br></br> LINE BOT 實戰 ( 原理篇 )
 </br> http://www.oxxostudio.tw/articles/201701/line-bot.html
-</br> 試玩LINE-BOT API  (Flask + Requests)
+</br></br> 試玩LINE-BOT API  (Flask + Requests)
 </br> https://becoder.org/python-flask-requests-line-bot-api/
-</br> 主要研究一體的流程，和每個不同人對於LINE-BOT的部屬還有敘述，在原理篇中，主要是研究對於基礎API的設置和了解在部屬上需要進行的步驟；聊天篇則是提到了，回復同樣詞句與指令回覆內容的項目。
-</br> Webduino - 用 LINE 開關燈 ( 智慧插座應用 )
+</br></br> 主要研究一體的流程，和每個不同人對於LINE-BOT的部屬還有敘述，在原理篇中，主要是研究對於基礎API的設置和了解在部屬上需要進行的步驟；聊天篇則是提到了，回復同樣詞句與指令回覆內容的項目。
+</br></br> Webduino - 用 LINE 開關燈 ( 智慧插座應用 )
 </br> https://www.youtube.com/watch?time_continue=89&v=cK3calqizTs
 </br> 另外也提到上方連結的額外應用
 
 * **1/5**
 </br> 研究阿肥LINE-BOT中GITHUB介紹與和CODE，將畫分理解阿肥的程式分層還有定義式結構，他將程室主要分為有定義的爬蟲、網址的回覆與按鈕選單的接續
 </br> 其中定義爬蟲選單主要有：
-</br> def eyny_movie():　def apple_news():　def technews():　等
+</br></br> def eyny_movie():　def apple_news():　def technews():　等
 </br> 定義網址回覆的涵式主要為URITemplateAction()
 
 * **1/6**
@@ -40,7 +40,7 @@
 
 * **1/8**
 </br> 之後經過多次修改後才成功部屬，但是還是無法顯現出我們想要的結果，又在一次請教老師，發現是爬蟲上的問題，老師說明原因: 因為伺服器端會辨識 request 是不是從 browser 來的，所以需要讓爬蟲偽裝成 browser。
-</br> headers = {'User-Agent': '偽裝成的chrome'}
+</br></br> headers = {'User-Agent': '偽裝成的chrome'}
 </br> r = requests.get(url, headers=headers)  ]]
 
 
