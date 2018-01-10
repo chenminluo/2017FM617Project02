@@ -16,7 +16,7 @@
 </br> Youtube Demo Tutorial V1
 </br> Youtube Demo V2
 </br> 之後依照步驟，創建 LINE API
-</br> App name : 查理小幫手
+</br> App name : 理查小幫手
 
 * **1/3**
 > LINE BOT 實戰 ( 聊天篇 )
@@ -47,6 +47,11 @@
 </br></br> headers = {'User-Agent': '偽裝成的chrome'}
 </br> r = requests.get(url, headers=headers)  ]]
 </br>偽裝成chrome的參考網址http://www.useragentstring.com/pages/useragentstring.php
+
 * **1/9**
 >看過老師錄的影片過後，花費約3至5小時修改，但還是無法顯現出理想中的型態,於是放棄原始的爬蟲CODE，用其他方式替代
-
+爬蟲採用Google Chrome套件
+</br></br>  XPath Helper
+</br> https://chrome.google.com/webstore/detail/xpath-helper/hgimnogjllphhhkhlmebbmlgjoejdpjl?hl=zh-TW
+</br> </br> SelectorGadget
+</br> https://chrome.google.com/webstore/detail/selectorgadget/mhjhnkcfbdhnjickkkdbjoemdmbfginb?hl=zh-TW
