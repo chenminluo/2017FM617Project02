@@ -31,26 +31,44 @@
 </br> 另外也提到上方連結的額外應用
 
 * **1/5**
->研究阿肥LINE-BOT中GITHUB介紹與和CODE，將畫分理解阿肥的程式分層還有定義式結構，他將程室主要分為有定義的爬蟲、網址的回覆與按鈕選單的接續
+>研究阿肥LINE-BOT中GITHUB介紹與和CODE
+</br> 理解阿肥的程式分層還有定義式結構
+</br> 發現程式主要分為有定義的爬蟲、網址的回覆與按鈕選單的接續
 </br> 其中定義爬蟲選單主要有：
-</br></br> def eyny_movie():　def apple_news():　def technews():　等
+</br> def eyny_movie():　def apple_news():　def technews():　等
 </br> 定義網址回覆的涵式主要為URITemplateAction()
 
 * **1/6**
->規畫與畫分自己數狀階層，和顯示模式
+>規畫與畫分自己數狀階層和顯示模式
 
 * **1/7**
->在程式完成後，嘗試架設上Heroku，其中失敗多次，而後部屬上其他作者簡單的回覆範例，在推上heroku後 ，網址出現application error，之後請教老師，在老師說明原因之後改用ngrok測驗，但是在ngrok推成功之後，但在line上沒有出現任何東西，於是我們回頭開始研究其他方面，發現是我組PYTHON程式碼有問題(連結台新網址部分)
+>初步程式撰寫完成後
+</br>嘗試架設上Heroku
+</br>其中失敗多次
+</br>也試著嘗試部屬上其他作者簡單的回覆範例探究問題來源
+</br>但在推上heroku後網址出現application error
+</br>在老師說明原因後改用ngrok測試
+</br>但是在ngrok推成功之後
+</br>LINE BOT仍然無法正常運作
+</br>於是我們回頭開始研究其他面向
+</br>發現是我組PYTHON程式碼有問題
 
 * **1/8**
->之後經過多次修改後才成功部屬，但是還是無法顯現出我們想要的結果，又在一次請教老師，發現是爬蟲上的問題，老師說明原因: 因為伺服器端會辨識 request 是不是從 browser 來的，所以需要讓爬蟲偽裝成 browser。
+>之後將CODE下方之return(0)後才成功部屬
+</br>但是還是無法顯現出我們想要的結果
+</br>請教老師後發現是爬蟲上的問題
+</br>理解老師說明原因: 因為伺服器端會辨識 request 是不是從 browser 來的，所以需要讓爬蟲偽裝成 browser。
 </br></br> headers = {'User-Agent': '偽裝成的chrome'}
 </br> r = requests.get(url, headers=headers)  ]]
 </br>偽裝成chrome的參考網址http://www.useragentstring.com/pages/useragentstring.php
 
 * **1/9**
->看過老師錄的影片過後，花費約3至5小時修改，但還是無法顯現出理想中的型態,於是放棄原始的爬蟲CODE，用其他方式替代
-爬蟲採用Google Chrome套件
+>看過老師錄的影片過後
+</br>花費約3至5小時修改
+</br>但還是無法顯現出理想中的型態
+</br>而爬蟲最終效果與其他方式無太大差異
+</br>故使用用其他方式替代
+</br></br>爬蟲採用Google Chrome套件
 </br></br>  XPath Helper
 </br> https://chrome.google.com/webstore/detail/xpath-helper/hgimnogjllphhhkhlmebbmlgjoejdpjl?hl=zh-TW
 </br> </br> SelectorGadget
