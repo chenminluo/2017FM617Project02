@@ -92,4 +92,4 @@
 ![Mou icon](https://i.imgur.com/xr8H9oI.png)
 ![Mou icon](https://i.imgur.com/q8GLHNG.png)
 ![Mou icon](https://i.imgur.com/gE0lfM5.png)
-![Mou icon](https://i.imgur.com/F9mZSbl.jpg)
+![Mou icon](https://i.imgur.com/LgvJboB.jpg)
