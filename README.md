@@ -55,3 +55,9 @@
 </br> https://chrome.google.com/webstore/detail/xpath-helper/hgimnogjllphhhkhlmebbmlgjoejdpjl?hl=zh-TW
 </br> </br> SelectorGadget
 </br> https://chrome.google.com/webstore/detail/selectorgadget/mhjhnkcfbdhnjickkkdbjoemdmbfginb?hl=zh-TW
+
+* **1/10**
+>最後確認程式碼
+</br> LINE BOT 美化工作 ex.製作按鈕樣式
+</br> 成功推上 HEROKU
+</br> 製作PPT
