@@ -8,7 +8,7 @@
 * **分工**：待議
 ## 實作過程:
 * **12/24**
-</br> 觀看阿肥LINE BOT影片介紹
+></br> 觀看阿肥LINE BOT影片介紹
 </br> Youtube Demo Tutorial V1
 </br> Youtube Demo V2
 </br> 之後依照步驟，創建 LINE API
