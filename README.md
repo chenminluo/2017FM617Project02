@@ -84,10 +84,13 @@
 </br> 製作PPT
 
 ## 實作結果:
-<img src="https://i.imgur.com/7WRVZ6k.png" width="20%" height="20%">
-![Mou icon](https://i.imgur.com/7WRVZ6k.png)
-![Mou icon](https://i.imgur.com/TzX3nTn.png)
-![Mou icon](https://i.imgur.com/zNSLbcC.png)
+<figure class="third">
+    <img src="https://i.imgur.com/7WRVZ6k.png" width="20%" height="20%">
+    <img src="https://i.imgur.com/TzX3nTn.png" width="20%" height="20%">
+    <img src="https://i.imgur.com/zNSLbcC.png" width="20%" height="20%">
+</figure>
+
+
 ![Mou icon](https://i.imgur.com/ct18io7.png)
 ![Mou icon](https://i.imgur.com/8r6zSzV.png)
 ![Mou icon](https://i.imgur.com/xr8H9oI.png)
