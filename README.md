@@ -85,9 +85,9 @@
 
 ## 實作結果:
 <figure class="third">
-    <img src="https://i.imgur.com/7WRVZ6k.png" width="20%" height="20%">
-    <img src="https://i.imgur.com/TzX3nTn.png" width="20%" height="20%">
-    <img src="https://i.imgur.com/zNSLbcC.png" width="20%" height="20%">
+    <img src="https://i.imgur.com/7WRVZ6k.png" width="30%" height="30%">
+    <img src="https://i.imgur.com/TzX3nTn.png" width="30%" height="30%">
+    <img src="https://i.imgur.com/zNSLbcC.png" width="30%" height="30%">
 </figure>
 
 
