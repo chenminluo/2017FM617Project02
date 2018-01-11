@@ -84,11 +84,6 @@
 </br> 製作PPT
 
 ## 實作結果:
-<figure class="half">
-    <img src="https://i.imgur.com/7WRVZ6k.png" width="30%" height="30%">
-    <img src="https://i.imgur.com/TzX3nTn.png" width="30%" height="30%">
-</figure>
-
 <img src="https://i.imgur.com/7WRVZ6k.png" width="30%" height="30%">
 <img src="https://i.imgur.com/TzX3nTn.png" width="30%" height="30%">
 <img src="https://i.imgur.com/zNSLbcC.png" width="30%" height="30%">
@@ -98,3 +93,4 @@
 <img src="https://i.imgur.com/q8GLHNG.png" width="30%" height="30%">
 <img src="https://i.imgur.com/gE0lfM5.png" width="30%" height="30%">
 <img src="https://i.imgur.com/WqcEwle.png" width="30%" height="30%">
+<img src="https://i.imgur.com/7WRVZ6k.png" width="30%" height="30%">
