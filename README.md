@@ -84,7 +84,7 @@
 </br> 製作PPT
 
 ## 實作結果:
-![Mou icon](https://i.imgur.com/7WRVZ6k.png)
+![Mou icon](https://i.imgur.com/7WRVZ6k.png =50x100)
 ![Mou icon](https://i.imgur.com/TzX3nTn.png)
 ![Mou icon](https://i.imgur.com/zNSLbcC.png)
 ![Mou icon](https://i.imgur.com/ct18io7.png)
